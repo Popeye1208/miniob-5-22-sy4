@@ -8,7 +8,7 @@
 !.vscode/launch.json
 ./docs/doxy/
 build/*
-build_*
+build_*/
 !build_support/
 cmake-build-*/*
 build
